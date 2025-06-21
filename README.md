@@ -1,5 +1,5 @@
 
-# body-shape-transform-prototypee
+# body-shape-transform-prototype
 
 Fotoğraf üzerinde, segmentasyon ve geometrik deformasyon ile kilo değişimi simülasyonu.
 
@@ -7,13 +7,13 @@ Fotoğraf üzerinde, segmentasyon ve geometrik deformasyon ile kilo değişimi s
 
 - İnsan vücut segmentasyonu
 - Geometrik deformasyon ile vücut şekli değiştirme (kilo alma/verme simülasyonu)
-- Gerçekçi görsel sonuçlar
+- Simüle edilmiş görsel sonuçlar
 
 ## Kurulum
 
 1. Bu repoyu klonlayın:
    ```powershell
-   git clone https://github.com/kullanici/body-shape-transform-prototypee.git
+   git clone https://github.com/kullanici/body-shape-transform-prototype.git
    ```
 2. Gerekli Python paketlerini yükleyin:
    ```powershell
